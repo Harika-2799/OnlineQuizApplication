@@ -1,0 +1,4 @@
+.root       { -fx-font-family: "Segoe UI", sans-serif; }
+.button     { -fx-font-size: 14; }
+.label      { -fx-font-size: 14; }
+.table-view { -fx-cell-size: 28; }
