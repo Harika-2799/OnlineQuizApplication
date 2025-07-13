@@ -98,21 +98,33 @@ A modern, user-friendly **Online Quiz Application** built using **Java**, **Java
 | Back buttons               | Smooth scene navigation              |
 
 ---
+## Application Screenshots
 
+### Login Screen
+![Login Screen](Assets/admin_login.jpeg)
 
-## 🤝 Contributing
+### Admin Dashboard
+![Admin Dashboard](Assets/admin_dashboard.jpeg)
+
+###  Quiz Attempt
+![Quiz Attempt](Assets/quiz_attempt.jpeg)
+
+###  Leaderboard View
+![Leaderboard](Assets/leaderboard.jpeg)
+
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Thanks to:
 - JavaFX team for beautiful GUI
@@ -121,5 +133,5 @@ Thanks to:
 
 ---
 
-> Created with 💻 by **Jagadish Gonnakuti**
+> Created with by **Harika Bondapalli**
 
