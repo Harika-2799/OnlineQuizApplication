@@ -107,10 +107,10 @@ A modern, user-friendly **Online Quiz Application** built using **Java**, **Java
 ![Admin Dashboard](Assets/admin_dashboard.jpeg)
 
 ###  Quiz Attempt
-![Quiz Attempt](Assets/quiz_attempt.jpeg)
+![Quiz Attempt](Assets/User_Quiz_Dashboard.jpeg)
 
 ###  Leaderboard View
-![Leaderboard](Assets/leaderboard.jpeg)
+![Leaderboard](Assets/Leaderboard.jpeg)
 
 ## Contributing
 
